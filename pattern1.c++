@@ -2,7 +2,7 @@
 using namespace std;
 
 
-// Pattern: Same row and column
+// Pattern: SQUARE PATTNER(Same row and column)
 // ****
 // ****
 // ****
