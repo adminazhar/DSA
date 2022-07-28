@@ -1,6 +1,13 @@
 #include<iostream>
 using namespace std;
 
+
+// Pattern: Same row and column
+// ****
+// ****
+// ****
+// ****
+
 int main() {
     int n;
     cout << "Enter N" << endl;
