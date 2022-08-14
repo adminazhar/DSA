@@ -4,11 +4,14 @@ using namespace std;
 /**
  * @author Azhar Khan
  * @email admin@azhark.com
- * Counting programing with function with void
+ * Counting program with function void
 */
 
-countNumber(n){
-    
+void countNumber(int n){
+    for(int i=1; i<=n; i++){
+        cout << i << " ";
+    }
+    cout << endl;
 }
 
 int main(){
