@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/**
+ * Check Even/Odd with function
+*/
 
 bool isEven(int a) {
     if(a&1) {
