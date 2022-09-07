@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * Binary Search implementation with C++
+ */
+
 int BinarySearch(int arr[], int size, int key) {
 
     int start = 0;
