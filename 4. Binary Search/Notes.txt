@@ -1,0 +1,9 @@
+For finding mid element we use math:
+(s+e)/2
+Where s is starting index, e is ending index.
+Ex: {1,4,5,9,11,13}
+(0+5)/2=2 is mid index
+
+But if start is 2^31-1 and same is end, so it will exceed INT limit.
+So we can use (start + ((end - start)/2)
+https://www.geeksforgeeks.org/start-end-start2-preferrable-method-calculating-middle-array-start-end2/
