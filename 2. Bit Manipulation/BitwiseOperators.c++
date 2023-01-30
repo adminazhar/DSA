@@ -9,7 +9,7 @@ int main() {
     cout << " a&b " << (a&b) << endl;
     cout << " a|b " << (a|b) << endl;
     cout << " ~a " << (~a) << endl;
-    cout << " ~b " << (~a) << endl;
+    cout << " ~b " << (~b) << endl;
     cout << " a^b " << (a^b) << endl;
 
     // Left Shift & Right Shift
